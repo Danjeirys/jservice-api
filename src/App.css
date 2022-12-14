@@ -1,0 +1,61 @@
+* {
+  text-align: center;
+  background-color: turquoise;
+  color: white;
+}
+
+h1 {
+  font-size: 55px;
+}
+
+h2 {
+  font-size: 40px;
+}
+
+h3 {
+  font-size: 35px;
+}
+
+h4 {
+  font-size: 30px;
+}
+
+.decrease {
+  padding: 2px;
+  margin: 5px;
+  background-color: white;
+  color: black;
+  border-radius: 5px;
+}
+
+.increase {
+  padding: 2px;
+  margin: 5px;
+  background-color: white;
+  color: black;
+  border-radius: 5px;
+}
+
+.reset {
+  padding: 2px;
+  margin: 5px;
+  background-color: white;
+  color: black;
+  border-radius: 5px;
+}
+
+.question {
+  padding: 2px;
+  margin: 5px;
+  background-color: white;
+  color: black;
+  border-radius: 5px;
+}
+
+.answer {
+  padding: 2px;
+  margin: 5px;
+  background-color: white;
+  color: black;
+  border-radius: 5px;
+}
